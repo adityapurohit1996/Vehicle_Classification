@@ -7,6 +7,7 @@ The code is meant to run in the Google research colab environment. To do this, c
 
 * data4Yolo - https://drive.google.com/open?id=1QM4Wg239epx3acTaNcBuIjJxpHJl0a75
 * data - https://drive.google.com/open?id=1Kx1cPo5dCz82Rdqy4i4qj50KgJEetXq5
+* yolo.h5 - https://drive.google.com/open?id=1pyUVCGH_U1XoDRKW-CmGlcPaz31tWpJ6
 
 # Training the Model
 
